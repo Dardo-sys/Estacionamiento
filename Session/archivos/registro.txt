@@ -1,0 +1,5 @@
+{"nombre":"alfredo","contrase\u00f1a":"1234","perfil":"empleado"}
+{"nombre":"julieta","contrase\u00f1a":"1234","perfil":"admin"}
+{"nombre":"roman","contrase\u00f1a":"10"}
+{"nombre":"roman","contrase\u00f1a":"1"}
+{"nombre":"cristian","contrase\u00f1a":"852"}
